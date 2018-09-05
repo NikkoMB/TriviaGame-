@@ -29,7 +29,7 @@ $(document).ready(function(){
     options: {
       q1: ['True', 'False'],
       q2: ['True', 'False'],
-      q3:['True', 'False'],
+      q3: ['True', 'False'],
       q4: ['True', 'False'],
       q5: ['True', 'False'],
       q6: ['True', 'False'],
@@ -42,7 +42,7 @@ $(document).ready(function(){
       q4: 'False',
       q5: 'False',
       q6: 'False',
-      q7: 'False '
+      q7: 'False',
     },
     // trivia methods
     // method to initialize game
