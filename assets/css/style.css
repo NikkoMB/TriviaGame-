@@ -1,3 +1,5 @@
 .text-muted {
-    color: blue; 
+    color: yellow; 
+    font-family: 'Lobster', cursive;
+    font-size: 100px; 
 }
